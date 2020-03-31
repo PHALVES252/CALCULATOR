@@ -1,2 +1,0 @@
-# CALCULATOR
-Calculadora universal
